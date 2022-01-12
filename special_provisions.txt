@@ -1,0 +1,14 @@
+ 	ㅇ	ㄱ	ㄴ	ㄷ	ㄹ	ㅁ	ㅂ	ㅅ	ㅈ	ㅊ	ㅋ	ㅌ	ㅍ	ㅎ
+–
+ㄱ	g	kg	ngn	kd	ngn	ngm	kb	ks	kj	kch	k-k	kt	kp	kh, k
+ㄴ	n	n-g	nn	nd	ll, nn	nm	nb	ns	nj	nch	nk	nt	np	nh
+ㄷ	d, j	tg	nn	td	nn	nm	tb	ts	tj	tch	tk	t-t	tp	th, t, ch
+ㄹ	r	lg	ll, nn	ld	ll	lm	lb	ls	lj	lch	lk	lt	lp	lh
+ㅁ	m	mg	mn	md	mn	mm	mb	ms	mj	mch	mk	mt	mp	mh
+ㅂ	b	pg	mn	pd	mn	mm	pb	ps	pj	pch	pk	pt	p-p	ph, p
+ㅅ	s	tg	nn	td	nn	nm	tb	ts	tj	tch	tk	t-t	tp	th, t, ch
+ㅇ	ng-	ngg	ngn	ngd	ngn	ngm	ngb	ngs	ngj	ngch	ngk	ngt	ngp	ngh
+ㅈ	j	tg	nn	td	nn	nm	tb	ts	tj	tch	tk	t-t	tp	th, t, ch
+ㅊ	ch	tg	nn	td	nn	nm	tb	ts	tj	tch	tk	t-t	tp	th, t, ch
+ㅌ	t, ch	tg	nn	td	nn	nm	tb	ts	tj	tch	tk	t-t	tp	th, t, ch
+ㅎ	h	k	nn	t	nn	nm	p	hs	ch	tch	tk	t	tp	t

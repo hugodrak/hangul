@@ -1,0 +1,58 @@
+괜찮아요		gwaenchanayo		gwaenchanhayo
+한국말을 못해요		hangungmareul motaeyo		hangungmareul mothaeyo
+금방 갔다 올거예요!		geumbang gatda olgeoyeyo!		geumbang gassda olgeoyeyo!
+맵지 않게 요리해 주세요		maepji anke yorihae juseyo		maepji anhge yorihae juseyo
+잘 먹었습니다!		jal meogeotseumnida!		jal meogeossseumnida!
+따뜻한 아메리카노 한잔 주세요		ttatteutan amerikano hanjan juseyo		ttatteuthan amerikano hanjan juseyo
+카페인 없는 음료 있어요?		kapein eomneun eumnyo isseoyo?		kapein eopsneun eumnyo isseoyo?
+좀 깎아 주세요		jom kkakka juseyo		jom kkaka juseyo
+3개월 할부		samgaewol halbu		gaewol halbu
+기장을 늘려 주세요.		gijangeul neullyeo juseyo		gijangeul neullyeo juseyo.
+기장을 줄여 주세요.		gijangeul juryeo juseyo		gijangeul juryeo juseyo.
+인터넷 뱅킹 필요해요?		inteonet baenking piryohaeyo?		inteonet baengking piryohaeyo?
+공인인증서 발급하고 싶어요		gongininjeungseo balgeuphago sipeoyo		gongininjeungseo balgeuph, pago sipeoyo
+코가 막혔어요		koga makyeosseoyo.		koga makyeosseoyo
+예약하려고 왔는데요		yeyakaryeogo wanneundeyo		yeyakaryeogo wassneundeyo
+마지막 치과 검진한지 1년 됐어요		majimak chigwa geomjinhanji ilnyeon dwaesseoyo		majimak chigwa geomjinhanji nyeon dwaesseoyo
+마지막 스케일링한지 6개월 됐어요		majimak seukeillinghanji yukgaewol dwaesseoyo		majimak seukeillinghanji gaewol dwaesseoyo
+충치가 생긴 것 같아요		chungchiga saengin geot gatayo		chungchiga saenggin geot gatayo
+뿌리 염색 해 주세요 (뿌염 해주세요)		ppuri yeomsaek hae juseyo (ppuyeom haejuseyo)		ppuri yeomsaek hae juseyo ppuyeom haejuseyo)
+너무 짧게 자르지 마세요		neomu jjalge jareuji maseyo		neomu jjalbge jareuji maseyo
+앞머리만 다듬어 주세요		ammeoriman dadeumeo juseyo		apmeoriman dadeumeo juseyo
+내일 오후 2시로 예약을 하고싶은데요		naeil ohu dusiro yeyageul hagosipeundeyo		naeil ohu siro yeyageul hagosipeundeyo
+사진에 있는 사람처럼 머리를 잘라 주세요		sajine inneun saramcheoreom meorireul jalla juseyo		sajine issneun saramcheoreom meorireul jalla juseyo
+7시반 상영 자리 있어요?		ilgopsiban sangyeong jari isseoyo?		siban sangyeong jari isseoyo?
+기생충 영화는 언제 상영해요?		gisaengchungyeonghwaneun eonje sangyeonghaeyo?		gisaengchung yeonghwaneun eonje sangyeonghaeyo?
+영화관12관 어디에 있어요?		yeonghwagwansibigwan eodie isseoyo		yeonghwagwan1gwan eodie isseoyo?
+부산행 영화는 2장 주세요		busanhaeng yeonghwaneun dujang juseyo		busanhaeng yeonghwaneun jang juseyo
+우표는 어디에서 살 수 있어요?		upyeoneun eodieseo sal su isseoyo?		upyoneun eodieseo sal su isseoyo?
+우표 3장 주세요		upyo sejang juseyo		upyo jang juseyo
+3호 박스 1개 주세요		samho bakseu hangae juseyo		ho bakseu gae juseyo
+길을 잃어버렸어요		gireul ireobeoryeosseoyo		gireul ilheobeoryeosseoyo
+멀지 않아요		meolji anayo		meolji anhayo
+여기에서 1킬로정도 멀어요		yeogieseo ilkillojeongdo meoreoyo		yeogieseo killojeongdo meoreoyo
+예약은 하셨습니까?		yeyageun hasyeotseumnikka?		yeyageun hasyeossseumnikka?
+네, 예약했어요		ne, yeyakhaesseoyo		ne, yeyakaesseoyo
+아직 예약을 하지 않았어요		ajik yeyageul haji anasseoyo		ajik yeyageul haji anhasseoyo
+4일 묵겠어요		sail mukgesseoyo		il mukgesseoyo
+7시에 깨워주시겠어요?		ilgopsie kkaewojusigesseoyo?		sie kkaewojusigesseoyo?
+3시에 거제도 가는 버스 자리 있어요?		sesie geojedo ganeun beoseu jari isseoyo?		sie geojedo ganeun beoseu jari isseoyo?
+605번 버스는 언제 도착해요?		yukbaegobeon beoseuneun eonje dochakaeyo?		60beon beoseuneun eonje dochakaeyo?
+맛있게 드세요		masitge deuseyo		masissge deuseyo
+많이 먹어요		mani meogeoyo		manhi meogeoyo
+잘 먹겠습니다		jal meokgetseumnida		jal meokgessseumnida
+잘 먹었습니다		jal meogeotseumnida		jal meogeossseumnida
+한국말 잘 못해요		hangungmal jal motaeyo		hangungmal jal mothaeyo
+정말요?		jeongmallyo?		jeongmaryo?
+어떻게 지냈어요?		eotteoke jinaesseoyo?		eotteoge jinaesseoyo?
+새해 복 많이 받으세요!		saehae bok mani badeuseyo!		saehae bok manhi badeuseyo!
+7월 12일부터 7월 14일까지 휴가 갈 거예요		chirwol sibiilbuteo chirwol sipsailkkaji hyuga gal geoyeyo		wol 1ilbuteo wol 1ilkkaji hyuga gal geoyeyo
+지하철역에서 얼마나 걸려요?		jihacheollyeogeseo eolmana geollyeoyo?		jihacheoryeogeseo eolmana geollyeoyo?
+쉬는 시간 시간 있어요?		swineun sigane		swineun sigan sigan isseoyo?
+언제 우리 같이 저녁 먹을까요?		eonje uri gachi jeonyeok meogeulkkayo?		eonje uri gati jeonyeok meogeulkkayo?
+서울역에서 세워 주세요		seoullyeogeseo sewo juseyo		seouryeogeseo sewo juseyo
+강남역전에 세워 주세요		gangnamyeok jeone sewo juseyo		gangnamyeokjeone sewo juseyo
+아주 급해요		aju geupaeyo		aju geuph, paeyo
+제일 가까운 경찰서가 어디예요?		jeil gakkaun gyeongchalseoga eodiyeyo		jeil gakkaun gyeongchalseoga eodiyeyo?
+가장 가까운 병원이 어디예요?		gajang gakkaun byeongwoni eodiyeyo		gajang gakkaun byeongwoni eodiyeyo?
+괜찮아요		gwaenchanayo		gwaenchanhayo

@@ -1,0 +1,413 @@
+Thank You	고맙습니다	gomapseumnida
+Don’t mention it	천만에요	cheonmaneyo
+Sorry	미안합니다	mianhamnida
+That’s OK	괜찮아요	gwaenchanayo
+Hello	안녕하세요?	annyeonghaseyo?
+Excuse me (to get attention)	저기요	jeogiyo
+Excuse me (to apologize)	실례합니다	sillyehamnida
+Excuse me (to pass someone)	잠시만요	jamsimanyo
+Hello (on phone)	여보세요	yeoboseyo
+Good morning	안녕하세요?	annyeonghaseyo?
+Good evening	안녕하세요?	annyeonghaseyo?
+Sleep well	잘 자요	jal jayo
+Sweet dreams	좋은 꿈 꿔요	joeun kkum kkwoyo
+Goodbye (to person leaving)	안녕히 가세요	annyeonghi gaseyo
+Goodbye (to person staying)	안녕히 계세요	annyeonghi gyeseyo
+Get home safely	잘 가요	jal gayo
+Have a nice day	좋은 하루 보내세요	joeun haru bonaeseyo
+Have a good trip!	여행 잘하세요	yeohaeng jalhaseyo
+Welcome	환영합니다	hwanyeonghamnida
+Yes	네	ne
+No	아니요	aniyo
+Maybe	아마도	amado
+Just a moment!	잠깐만요!	jamkkanmanyo!
+I feel sick	아파요	apayo
+I need a doctor	의사가 필요해요	uisaga piryohaeyo
+Take me to the hospital (to taxi)	병원에 가주세요	byeongwone gajuseyo
+Where is the bathroom?	화장실은 어디에 있어요?	hwajangsireun eodie isseoyo?
+Please repeat that	다시 말해 주세요	dasi malhae juseyo
+Please speak slowly	천천히 말해 주세요	cheoncheonhi malhae juseyo
+Please write it down	적어 주세요	jeogeo juseyo
+I understand	이해해요	ihaehaeyo
+I don’t understand	이해 못해요	ihae mothaeyo
+I don’t know	몰라요	mollayo
+I know	알아요	arayo
+Can you speak Korean?	한국말을 할 수 있어요?	hangungmareul hal su isseoyo?
+I can speak a little Korean	한국말을 조금 할 수 있어요	hangungmareul jogeum hal su isseoyo
+I can’t speak Korean	한국말을 못해요	hangungmareul motaeyo
+How do you say tiger in Korean?	타이거가 한국말로 뭐예요?	taigeoga hangungmallo mwoyeyo?
+How much is this?	이거 얼마예요?	igeo eolmayeyo?
+I’ll be right back!	금방 갔다 올거예요!	geumbang gatda olgeoyeyo!
+What is this?	이게 뭐예요	ige mwoyeyo
+Don’t worry!	걱정 하지 마세요!	geokjeong haji maseyo!
+No problem!	문제 없어요	munje eopseoyo
+Good	좋아요	joayo
+Bad	안 좋아요	an joayo
+So-so	그저 그래요	geujeo geuraeyo
+Do you have a table for 4 people?	네명 자리 있어요?	nemyeong jari isseoyo?
+Please give me a menu	메뉴판 주세요	menyupan juseyo
+Do you have vegetarian dishes?	채식주의자용 식사 있어요?	chaesikjuuijayong siksa isseoyo?
+Is this spicy?	이거 매워요?	igeo maewoyo?
+Please do not make this spicy	맵지 않게 요리해 주세요	maepji anke yorihae juseyo
+Please give me 4 orders of galbi	갈비 사인분 주세요	galbi sainbun juseyo
+Please give me 1 bottle of soju	소주 한병 주세요	soju hanbyeong juseyo
+Please give me 3 glasses	유리잔 세개 주세요	yurijan segae juseyo
+It’s delicious!	맛있어요!	masisseoyo!
+I don’t like it	맛없어요	maseopseoyo
+It was a delicious meal!	잘 먹었습니다!	jal meogeotseumnida!
+What time do you close?	몇시에 문 닫아요?	myeotsie mun dadayo?
+Do you take credit cards?	카드 돼요?	kadeu dwaeyo?
+Please give me 1 hot coffee	따뜻한 아메리카노 한잔 주세요	ttatteutan amerikano hanjan juseyo
+Please give me 2 ice coffees	아이스 아메리카노 두잔 주세요	aiseu amerikano dujan juseyo
+Do you have non-caffeinated drinks?	카페인 없는 음료 있어요?	kapein eomneun eumnyo isseoyo?
+I’d like to eat here	여기서 먹고 갈게요	yeogiseo meokgo galgeyo
+I’d like this to go (drink only)	테이크 아웃이에요	teikeu ausieyo
+I’d like this to go (food and drink)	포장해 주세요	pojanghae juseyo
+Please throw away my receipt	영수증은 버려 주세요	yeongsujeungeun beoryeo juseyo
+Do you have wifi here?	와이파이 있어요?	waipai isseoyo?
+What is the wifi password?	비밀 번호 알려 주세요	bimil beonho allyeo juseyo
+Do you have electrical outlets?	콘센트 있어요?	konsenteu isseoyo?
+Where are your electrical outlets?	콘센트 어디에 있어요?	konsenteu eodie isseoyo?
+Throw away the receipt	영수증은 버려 주세요	yeongsujeungeun beoryeo juseyo
+Please give me a receipt	영수증 주세요	yeongsujeung juseyo
+Put it in a bag	봉투에 넣어 주세요	bongtue neoeo juseyo
+Please give me a discount	좀 깎아 주세요	jom kkakka juseyo
+How much is it?	얼마예요?	eolmayeyo?
+Please give me coffee	커피 주세요	keopi juseyo
+Do you have wallet?	지갑 있어요?	jigap isseoyo?
+Can I pay with credit card?	카드 돼요?	kadeu dwaeyo?
+Please give me a refund	환불해 주세요	hwanbulhae juseyo
+Please exchange this	교환해 주세요	gyohwanhae juseyo
+Please wrap it for me	포장해 주세요	pojanghae juseyo
+One-time payment	일시불	ilsibul
+3 month installments	3개월 할부	samgaewol halbu
+Please dry clean this for me	드라이 해 주세요	deurai hae juseyo
+Please iron this for me	다림질 해 주세요	darimjil hae juseyo
+Please make this longer	기장을 늘려 주세요.	gijangeul neullyeo juseyo
+Please make this shorter	기장을 줄여 주세요.	gijangeul juryeo juseyo
+Please sew on this button	단추 달아주세요	danchu darajuseyo
+Can you remove this stain?	얼룩 뺄 수 있어요?	eolluk ppael su isseoyo?
+When can I pick up my clothes?	옷을 언제 받을 수 있어요?	oseul eonje badeul su isseoyo?
+I’m here to pick up my clothes	제 옷을 찾으러 왔어요	je oseul chajeureo wasseoyo
+How much is it?	얼마예요?	eolmayeyo?
+How much is the total?	모두 얼마예요?	modu eolmayeyo?
+I would like to open a new bank account	통장을 만들고 싶어요	tongjangeul mandeulgo sipeoyo
+I would like an ATM card	체크 카드를 만들고 싶어요	chekeu kadeureul mandeulgo sipeoyo
+I need to reset my password	비밀번호를 재발급 하고 싶어요	bimilbeonhoreul jaebalgeup hago sipeoyo
+Are there monthly fees?	수수료 있어요?	susuryo isseoyo?
+Do you have an ID card	신분증 있어요?	sinbunjeung isseoyo?
+Please give me your ID card	신분증 주세요	sinbunjeung juseyo
+Do you need internet banking?	인터넷 뱅킹 필요해요?	inteonet baenking piryohaeyo?
+I would like to apply for a public certificate	공인인증서 발급하고 싶어요	gongininjeungseo balgeuphago sipeoyo
+I want to send money to Philippines	필리핀에 돈 보내려고 왔어요	pillipine don bonaeryeogo wasseoyo
+I need to make a deposit	입금 해주세요	ipgeum haejuseyo
+I need to make a withdrawal	출금 해주세요	chulgeum haejuseyo
+How much is the wire transfer charge?	송금 수수료는 얼마예요?	songgeum susuryoneun eolmayeyo?
+Can I apply for a credit card?	신용 카드 신청할 수 있어요?	sinyong kadeu sincheonghal su isseoyo?
+I need to see a doctor	진찰을 받고 싶어요	jinchareul batgo sipeoyo
+I have health insurance	건강 보험 있어요	geongang boheom isseoyo
+My body aches all over	몸살 났어요	momsal nasseoyo
+I have a headache	머리가 아파요	meoriga apayo
+I have a sore throat	목이 아파요	mogi apayo
+I have a stomachache	배가 아파요	baega apayo
+I have diarrhea	설사를 해요	seolsareul haeyo
+I have an upset stomach	체했어요	chehaesseoyo
+My nose is runny	자꾸 콧물이 나요	jakku konmuri nayo
+My nose is stuffy	코가 막혔어요	koga makyeosseoyo
+I don’t have any allergies	알레르기가 없어요	allereugiga eopseoyo
+I am allergic to cucumber	오이에 알레르기가 있어요	oie allereugiga isseoyo
+Where can I get this prescription filled?	어디에서 약을 받을 수 있어요?	eodieseo yageul badeul su isseoyo?
+I have a prescription to fill	처방전을 받아 왔어요	cheobangjeoneul bada wasseoyo
+Do you have Tylenol?	타이레놀 있어요?	tairenol isseoyo?
+I have a cold	감기에 걸렸어요	gamgie geollyeosseoyo
+I have a stuffy nose	코가 막혔어요	koga makyeosseoyo.
+I have a runny nose	자꾸 콧물이 나요	jakku konmuri nayo
+I have a headache	머리가 아파요	meoriga apayo
+I have a sore throat	목이 아파요	mogi apayo
+I have a stomachache	배가 아파요	baega apayo
+My body aches all over	몸살 났어요	momsal nasseoyo
+I have been sick for two days	이틀 동안 아팠어요	iteul dongan apasseoyo
+Take one pill twice a day	하루에 두 번 한 알씩 드세요	harue du beon han alssik deuseyo
+Take one pill three times a day with meals	하루에 세 번 식사할 때마다 한 알씩 드세요	harue se beon siksahal ttaemada han alssik deuseyo
+I don’t have any allergies	알레르기가 없어요	allereugiga eopseoyo
+I am allergic to cucumber	오이에 알레르기가 있어요	oie allereugiga isseoyo
+I have a prescription to fill	처방전을 받아 왔어요	cheobangjeoneul bada wasseoyo
+I’m here to make an appointment	예약하려고 왔는데요	yeyakaryeogo wanneundeyo
+How long do I have to wait?	얼마나 기다려야해요?	eolmana gidaryeoyahaeyo?
+My last checkup was 1 year ago	마지막 치과 검진한지 1년 됐어요	majimak chigwa geomjinhanji ilnyeon dwaesseoyo
+My last scaling was 6 months ago	마지막 스케일링한지 6개월 됐어요	majimak seukeillinghanji yukgaewol dwaesseoyo
+I am here for a scaling	스케일링 하러 왔어요	seukeilling hareo wasseoyo
+I'm here for a dental checkup	치과 검진 하러 왔어요	chigwa geomjin hareo wasseoyo
+My upper tooth hurts	윗니가 아파요	winniga apayo
+My lower tooth is senstive	아랫니가 시려요	araenniga siryeoyo
+My gums hurt	잇몸이 아파요	inmomi apayo
+I think I have a cavity	충치가 생긴 것 같아요	chungchiga saengin geot gatayo
+I don’t have dental insurance	치과 보험 없어요	chigwa boheom eopseoyo
+I have dental insurance	치과 보험 있어요	chigwa boheom isseoyo
+Can I pay with a credit card?	카드 돼요?	kadeu dwaeyo?
+Please give me a haircut	커트 해주세요	keoteu haejuseyo
+Please dye my hair	염색 해주세요	yeomsaek haejuseyo
+Dye only my roots please	뿌리 염색 해 주세요 (뿌염 해주세요)	ppuri yeomsaek hae juseyo (ppuyeom haejuseyo)
+Dye my hair this color please	이 색깔로 염색 해 주세요	i saekkkallo yeomsaek hae juseyo
+Please perm my hair	파마 해주세요	pama haejuseyo
+How much does a haircut cost?	머리 커트 얼마예요?	meori keoteu eolmayeyo?
+How long will it take?	시간 얼마나 걸려요?	sigan eolmana geollyeoyo?
+Please don’t cut it too short	너무 짧게 자르지 마세요	neomu jjalge jareuji maseyo
+Please cut it a little shorter here	여기 조금 더 잘라 주세요	yeogi jogeum deo jalla juseyo
+Please just trim my hair	좀 다듬어 주세요	jom dadeumeo juseyo
+Please just trim my bangs	앞머리만 다듬어 주세요	ammeoriman dadeumeo juseyo
+Please trim the sides and even out the top	위에는 그냥 두고 옆에만 다듬어주세요	wieneun geunyang dugo yeopeman dadeumeojuseyo
+Leave the back long	뒷머리는 길게 남겨 두세요	dwinmeorineun gilge namgyeo duseyo
+I’d like to make an appointment tomorrow at 2pm	내일 오후 2시로 예약을 하고싶은데요	naeil ohu dusiro yeyageul hagosipeundeyo
+I’d like my hair like this person in the picture	사진에 있는 사람처럼 머리를 잘라 주세요	sajine inneun saramcheoreom meorireul jalla juseyo
+Make it about this long	이 정도로 길게 해 주세요	i jeongdoro gilge hae juseyo
+Are there any seats available for the 7:30pm showing?	7시반 상영 자리 있어요?	ilgopsiban sangyeong jari isseoyo?
+Are there subtitles for this movie?	영화 자막 있어요?	yeonghwa jamak isseoyo?
+What time is Parasite the movie showing?	기생충 영화는 언제 상영해요?	gisaengchungyeonghwaneun eonje sangyeonghaeyo?
+What is the genre of the movie?	영화는 무슨 장르에요?	yeonghwaneun museun jangneueyo?
+How long is the movie?	영화 상영 시간이 얼마나 돼요?	yeonghwa sangyeong sigani eolmana dwaeyo?
+Where is Theater 12	영화관12관 어디에 있어요?	yeonghwagwansibigwan eodie isseoyo
+Where is the concession stand?	매점은 어디 있어요?	maejeomeun eodi isseoyo?
+I’d like two tickets for Train to Busan the movie	부산행 영화는 2장 주세요	busanhaeng yeonghwaneun dujang juseyo
+How much are the Sweetbox seats?	스위트박스 자리는 얼마예요?	seuwiteubakseu jarineun eolmayeyo?
+Do you give discounts to students?	학생 할인 돼요?	haksaeng harin dwaeyo?
+When is the last move playing?	마지막 영화는 언제예요?	majimak yeonghwaneun eonjeyeyo?
+How much is it to send by air mail?	항공우편으로 얼마예요?	hanggongupyeoneuro eolmayeyo?
+How much is the least expensive shipping option?	제일 싼 우편 방법 얼마예요?	jeil ssan upyeon bangbeop eolmayeyo?
+Do I need a customs form?	세관 서류 필요해요?	segwan seoryu piryohaeyo?
+Please send this package by registered mail	등기로 소포 보내주세요	deunggiro sopo bonaejuseyo
+Please send this envelope to Canada by regular mail	캐나다에 봉투우편으로 보내주세요	kaenadae bongtuupyeoneuro bonaejuseyo
+Where can I buy stamps?	우표는 어디에서 살 수 있어요?	upyeoneun eodieseo sal su isseoyo?
+Please give me 3 stamps	우표 3장 주세요	upyo sejang juseyo
+Do you sell envelopes?	편지 봉투 팔아요?	pyeonji bongtu parayo?
+How long will it take to be delivered?	배송기간은 얼마나 걸려요?	baesonggiganeun eolmana geollyeoyo?
+What is the zip code for this address?	이 주소의 우편번호가 뭐예요?	i jusoui upyeonbeonhoga mwoyeyo?
+Please give me one size 3 box	3호 박스 1개 주세요	samho bakseu hangae juseyo
+Please give me some bubble wrap	뽁뽁이 좀 주세요	ppokppogi jom juseyo
+Excuse me (asking for help politely)	실례합니다	sillyehamnida
+Excuse me (asking for help)	저기요	jeogiyo
+I’m lost	길을 잃어버렸어요	gireul ireobeoryeosseoyo
+Do you know where Apgujeong station is?	압구정역 어디인지 아세요?	apgujeongyeok eodiinji aseyo?
+How far is it from here?	여기에서 얼마나 걸리는지 아세요?	yeogieseo eolmana geollineunji aseyo?
+Is it far from here?	여기에서 멀어요?	yeogieseo meoreoyo?
+It’s quite far	꽤 멀어요	kkwae meoreoyo
+It’s not far	멀지 않아요	meolji anayo
+It’s close	가까워요	gakkawoyo
+It’s not within walking distance	걸어갈 만한 거리가 아니예요	georeogal manhan georiga aniyeyo
+It’s about 1 kilometer from here	여기에서 1킬로정도 멀어요	yeogieseo ilkillojeongdo meoreoyo
+Can you show me on the map?	지도로 보여 주시겠어요?	jidoro boyeo jusigesseoyo?
+I’m sorry, I’m not from around here	미안하지만 저는 이 근처 사람이 아니예요	mianhajiman jeoneun i geuncheo sarami aniyeyo
+It’s that way	그 쪽으로 가세요	geu jjogeuro gaseyo
+Go left	왼쪽 가세요	oenjjok gaseyo
+Go right	오른쪽에 가세요	oreunjjoge gaseyo
+Go straight	쭉 가세요	jjuk gaseyo
+Do you have any rooms available?	빈방 있어요?	binbang isseoyo?
+I would like to make a reservation	예약을 하고 싶어요	yeyageul hago sipeoyo
+Did you have a reservation?	예약은 하셨습니까?	yeyageun hasyeotseumnikka?
+I have a reservation	네, 예약했어요	ne, yeyakhaesseoyo
+I don’t have a reservation	아직 예약을 하지 않았어요	ajik yeyageul haji anasseoyo
+How much is a room for one night?	하루에 방이 얼마예요?	harue bangi eolmayeyo?
+Is breakfast included with the room?	요금에 조식은 포함되어 있어요?	yogeume josigeun pohamdoeeo isseoyo?
+How long would you like to stay?	몇 박을 하실 겁니까?	myeot bageul hasil geomnikka?
+May I see the room first?	방을 먼저 봐도 돼요?	bangeul meonjeo bwado dwaeyo?
+I will stay for four night(s)	4일 묵겠어요	sail mukgesseoyo
+May I have your name?	성함을 말씀해주세요	seonghameul malsseumhaejuseyo
+Can you wake me at 7 o'clock?	7시에 깨워주시겠어요?	ilgopsie kkaewojusigesseoyo?
+I want to check out now	지금 체크 아웃하고 싶어요	jigeum chekeu authago sipeoyo
+Please stop the bus here	여기서 세워 주세요	yeogiseo sewo juseyo
+Please open the bus door	버스 문 열어 주세요	beoseu mun yeoreo juseyo
+What time is the last bus?	마지막 버스 언제예요?	majimak beoseu eonjeyeyo?
+How much is the bus fare?	버스 요금 얼마예요?	beoseu yogeum eolmayeyo?
+Where can I charge my bus card?	버스 카드 어디에서 충전할 수 있어요?	beoseu kadeu eodieseo chungjeonhal su isseoyo?
+How much is a bus ticket to Seoul?	서울에 가는 버스 표가 얼마예요?	seoure ganeun beoseu pyoga eolmayeyo?
+One ticket to Gangneung, please	강릉에 가는 표 한 장 주세요	gangneunge ganeun pyo han jang juseyo
+Where does this bus go?	이 버스는 어디로 가요?	i beoseuneun eodiro gayo?
+Where is the bus to Jinju?	진주에 가는 버스는 어디에 있어요?	jinjue ganeun beoseuneun eodie isseoyo?
+Are there tickets available for the 3pm bus to Geo Je Island?	3시에 거제도 가는 버스 자리 있어요?	sesie geojedo ganeun beoseu jari isseoyo?
+Does this bus stop in Incheon International Airport?	이 버스는 인천국제공항에 서요?	i beoseuneun incheongukjegonghange seoyo?
+When does the bus for Sokcho leave?	속초에 가는 버스는 언제 출발해요?	sokchoe ganeun beoseuneun eonje chulbalhaeyo?
+When does bus number 605 arrive?	605번 버스는 언제 도착해요?	yukbaegobeon beoseuneun eonje dochakaeyo?
+When will this bus arrive in the Namsan Tower?	이 버스는 남산타워에 언제 도착해요?	i beoseuneun namsantawoe eonje dochakaeyo?
+Bon appétit	맛있게 드세요	masitge deuseyo
+Eat up!	많이 먹어요	mani meogeoyo
+I will eat well!	잘 먹겠습니다	jal meokgetseumnida
+I ate well	잘 먹었습니다	jal meogeotseumnida
+It’s delicious!	맛있어요!	masisseoyo!
+It doesn’t taste good	맛없어요	maseopseoyo
+I’m hungry	배고파요	baegopayo
+I’m thirsty	목 말라요	mok mallayo
+Give me coffee please	커피 주세요	keopi juseyo
+I’m a vegetarian	저는 채식주의자예요	jeoneun chaesikjuuijayeyo
+I don’t eat meat	저는 고기를 못 먹어요	jeoneun gogireul mot meogeoyo
+I can eat anything	다 먹을 수 있어요	da meogeul su isseoyo
+Nice to meet you	만나서 반가워요	mannaseo bangawoyo
+What is your name?	이름이 뭐예요?	ireumi mwoyeyo?
+My name is John	제 이름은 존이에요	je ireumeun jonieyo
+Where are you from?	어디에서 왔어요?	eodieseo wasseoyo?
+I’m from U.S.	저는 미국에서 왔어요	jeoneun migugeseo wasseoyo
+How old are you?	몇 살이에요?	myeot sarieyo?
+I’m 24 years old	저는 스물 네살이에요	jeoneun seumul nesarieyo
+I can’t speak Korean well	한국말 잘 못해요	hangungmal jal motaeyo
+I’m learning Korean these days	요즘 한국말 배워요	yojeum hangungmal baewoyo
+What is your job?	직업이 뭐예요?	jigeobi mwoyeyo?
+My job is amodel	제 직업은 모델이에요	je jigeobeun moderieyo
+Really?	정말요?	jeongmallyo?
+Where do you live?	어디에 사세요?	eodie saseyo?
+Are you married?	결혼했어요?	gyeolhonhaesseoyo?
+Do you like exercise?	운동을 좋아해요?	undongeul joahaeyo?
+I like Carrot cake	당근케이크를 좋아해요	danggeunkeikeureul joahaeyo
+Long time no see	오랜만이에요	oraenmanieyo
+Have you eaten? (showing concern)	밥 먹었어요?	bap meogeosseoyo?
+How are you?	잘 지내요?	jal jinaeyo?
+How have you been?	잘 지냈어요?	jal jinaesseoyo?
+What have you been up to?	어떻게 지냈어요?	eotteoke jinaesseoyo?
+Where shall we go?	어디로 갈까요?	eodiro galkkayo?
+Say hi to brother for me	형한테 안부 전해 주세요	hyeonghante anbu jeonhae juseyo
+Get home safely	집에 잘 들어가요	jibe jal deureogayo
+Happy Birthday	생일 축하합니다	saengil chukahamnida
+Merry Christmas	메리 크리스마스	meri keuriseumaseu
+Happy New Year!	새해 복 많이 받으세요!	saehae bok mani badeuseyo!
+Happy Chuseok!	즐거운 추석 보내세요	jeulgeoun chuseok bonaeseyo
+Happy Valentine's Day!	해피 발렌타인 데이!	haepi ballentain dei!
+Cheers!	건배!	geonbae!
+Congratulations!	축하해요	chukahaeyo
+Hello? (on phone)	여보세요?	yeoboseyo?
+Who is calling please?	누구세요?	nuguseyo?
+Can I speak to Ella please?	엘라씨와 통화 할 수 있을까요?	ellassiwa tonghwa hal su isseulkkayo?
+Just a moment please	잠시만 기다려 주세요	jamsiman gidaryeo juseyo
+Brownisn’t in at the moment	브라운씨가 자리를 비웠어요	beuraunssiga jarireul biwosseoyo
+Should I tell Mike to call you back?	마이크씨에게 다시 전화하라고 할까요?	maikeussiege dasi jeonhwaharago halkkayo?
+Would you like to leave a message?	메세지를 남기시겠어요?	mesejireul namgisigesseoyo?
+Shall I take a message?	메세지 남겨 드릴까요?	meseji namgyeo deurilkkayo?
+I will connect you	제가 연결해 드릴게요	jega yeongyeolhae deurilgeyo
+Please repeat that for me	다시 말해 주세요	dasi malhae juseyo
+Please speak up a little for me	좀 더 크게 말해 주세요	jom deo keuge malhae juseyo
+I will call you back	제가 다시 걸게요	jega dasi geolgeyo
+When shall I call?	언제쯤 통화가 가능할까요?	eonjejjeum tonghwaga ganeunghalkkayo?
+Do you have electrical outlets?	콘센트 있어요?	konsenteu isseoyo?
+Where are your electrical outlets?	콘센트 어디에 있어요?	konsenteu eodie isseoyo?
+Please charge my mobile for me	휴대폰 충전해 주세요	hyudaepon chungjeonhae juseyo
+Do you sell mobile phone cases?	휴대폰 케이스 팔아요?	hyudaepon keiseu parayo?
+Do you sell cell phone chargers?	휴대폰 충전기 팔아요?	hyudaepon chungjeongi parayo?
+Can I buy a data plan for my phone?	휴대폰 데이터 플랜 살 수 있어요?	hyudaepon deiteo peullaen sal su isseoyo?
+How much time is remaining on my contract?	휴대폰 약정 얼마나 남았어요?	hyudaepon yakjeong eolmana namasseoyo?
+Please add minutes to my phone	휴대폰 데이터 충전해 주세요	hyudaepon deiteo chungjeonhae juseyo
+Can you repair my mobile phone?	휴대폰 고칠 수 있어요?	hyudaepon gochil su isseoyo?
+How much will the repair cost?	고치는 비용 얼마예요?	gochineun biyong eolmayeyo?
+When can I pick up my phone?	휴대폰 언제 찾으러 올 수 있어요?	hyudaepon eonje chajeureo ol su isseoyo?
+Amazing! or Unbelievable!	대박!	daebak!
+What?! or Oh my god!	헐!	heol!
+Yay! or Hurray!	아싸!	assa!
+Oh my goodness!	아이고!	aigo!
+Unbelievable! or Impossible!	말도 안돼요!	maldo andwaeyo!
+Really?!	진짜요?	jinjjayo?
+Ouch!	아야!	aya!
+Self-camera	셀카	selka
+Company dinner	회식	hoesik
+Bomb drink (i.e. boilermaker or soju bomb)	폭탄주	poktanju
+Soju and beer	소맥	somaek
+Chimek (chicken and beer)	치맥	chimaek
+Membership training (retreat)	엠티	emti
+Part-time job	알바	alba
+Of course!	당근!	danggeun!
+Starbucks	별다방	byeoldabang
+Boyfriend	남친	namchin
+Girlfriend	여친	yeochin
+Free item at restaurant or store	서비스	seobiseu
+recognize or respect	인정!	injeong!
+Did a package arrive for me?	소포 왔어요?	sopo wasseoyo?
+I expect a package tomorrow	내일 소포가 올거예요	naeil sopoga olgeoyeyo
+My airpod is broken	제 에어팟이 고장났어요	je eeopasi gojangnasseoyo
+I’ll be on vacation from 12 July to 14 July	7월 12일부터 7월 14일까지 휴가 갈 거예요	chirwol sibiilbuteo chirwol sipsailkkaji hyuga gal geoyeyo
+My hot water doesn’t work	뜨거운 물이 안 나와요	tteugeoun muri an nawayo
+My hot water heater is broken	보일러가 고장났어요	boilleoga gojangnasseoyo
+My sink is clogged	제 싱크대가 막혔어요	je singkeudaega makyeosseoyo
+My toilet is clogged	제 변기 막혔어요	je byeongi makyeosseoyo
+The water doesn’t work	수돗물이 안 나와요	sudonmuri an nawayo
+The lights don’t work	불이 안 켜져요	buri an kyeojyeoyo
+The air conditioning isn’t cold	에어컨이 안 시원해요	eeokeoni an siwonhaeyo
+The neighbors are too loud	이웃이 너무 시끄러워요	iusi neomu sikkeureowoyo
+The neighbors dog keeps barking	이웃집 강아지가 계속 짖어요	iutjip gangajiga gyesok jijeoyo
+I would like to find housing around here	이 근처의 집을 구하고 싶어요	i geuncheoui jibeul guhago sipeoyo
+I would like to find housing near Han River Park	한강공원 근처의 집 구하고 싶어요	hanganggongwon geuncheoui jip guhago sipeoyo
+I would like to find a studio apartment	원룸 구하고 싶어요	wollum guhago sipeoyo
+I would like to find a one bedroom apartment	투룸 구하고 싶어요	turum guhago sipeoyo
+How much is the monthly rent?	월세 얼마예요?	wolse eolmayeyo?
+How much is the deposit?	보증금 얼마예요?	bojeunggeum eolmayeyo?
+How far is it from the subway station?	지하철역에서 얼마나 걸려요?	jihacheollyeogeseo eolmana geollyeoyo?
+This is too small	너무 작아요	neomu jagayo
+This is too big	너무 커요	neomu keoyo
+This is too expensive	너무 비싸요	neomu bissayo
+I don’t really like it	별로 안 좋아요	byeollo an joayo
+I like this place a lot	이 집 마음에 들어요	i jip maeume deureoyo
+What is your phone number?	핸드폰 번호가 뭐예요?	haendeupon beonhoga mwoyeyo?
+Let’s talk on KakaoTalk	우리 카카오톡 해요	uri kakaotok haeyo
+Do you have time this weekend?	주말에 시간 있어요?	jumare sigan isseoyo?
+Are you available break time?	쉬는 시간 시간 있어요?	swineun sigane
+sigan isseoyo?
+I’m busy on Monday	월요일에 바빠요	woryoire bappayo
+Shall we go on a date together?	우리 데이트 할까요?	uri deiteu halkkayo?
+Shall we get dinner together sometime?	언제 우리 같이 저녁 먹을까요?	eonje uri gachi jeonyeok meogeulkkayo?
+You are pretty!	예뻐요!	yeppeoyo!
+You are handsome!	잘 생겼어요!
+jal saenggyeosseoyo!
+You are charming!	매력적이에요!	maeryeokjeogieyo!
+That was a great evening	즐거운 저녁이었어요	jeulgeoun jeonyeogieosseoyo
+When shall we meet again?	언제 다시 볼까요?	eonje dasi bolkkayo?
+Will you be my boyfriend/girlfriend?	우리 사귈래요?	uri sagwillaeyo?
+Where shall I go?	어디로 갈까요?	eodiro galkkayo?
+Please take me to Sinsa-dong	신사동으로 가주세요	sinsadongeuro gajuseyo
+I will give you the address	주소를 알려 드릴게요	jusoreul allyeo deurilgeyo
+Please go left at Apartment	아파트에서 좌회전해 주세요	apateueseo jwahoejeonhae juseyo
+Please go right at Hospital	병원에서 우회전해 주세요	byeongwoneseo uhoejeonhae juseyo
+Please go straight at Crossroads	사거리에서 직진해 주세요	sageorieseo jikjinhae juseyo
+Please make a u-turn at Cafe	카페에서 유턴해 주세요	kapeeseo yuteonhae juseyo
+Please stop at Seoul station	서울역에서 세워 주세요	seoullyeogeseo sewo juseyo
+Please stop in front of Theater	영화관 앞에 세워 주세요	yeonghwagwan ape sewo juseyo
+Please stop before Gang-nam station	강남역전에 세워 주세요	gangnamyeok jeone sewo juseyo
+Please stop after aBus stop	버스정류장 지나서 세워 주세요	beoseujeongnyujang jinaseo sewo juseyo
+Goodbye (to the person leaving)	안녕히 가세요	annyeonghi gaseyo
+Taxi driver	기사님	gisanim
+This is an emergency	아주 급해요	aju geupaeyo
+Where is the nearest police station?	제일 가까운 경찰서가 어디예요?	jeil gakkaun gyeongchalseoga eodiyeyo
+Where is the closest hospital?	가장 가까운 병원이 어디예요?	gajang gakkaun byeongwoni eodiyeyo
+Please call an ambulance	구급차를 불러 주세요	gugeupchareul bulleo juseyo
+Please take me to the hospital	병원에 데려가 주세요	byeongwone deryeoga juseyo
+Please help me	도와주세요	dowajuseyo
+Please call the US Embassy immediately	즉시 미국 대사관으로 전화해 주세요	jeuksi miguk daesagwaneuro jeonhwahae juseyo
+Where can I get help?	어디에서 도움을 구할 수 있어요?	eodieseo doumeul guhal su isseoyo?
+I am a diabetic	저는 당뇨가 있어요	jeoneun dangnyoga isseoyo
+I am allergic to cucumber	오이에 알레르기가 있어요	oie allereugiga isseoyo
+Persevere! (cheer)	화이팅!	hwaiting!
+Cheer up	힘내세요	himnaeseyo
+Don’t give up	포기 하지마세요	pogi hajimaseyo
+Don’t worry	걱정 하지마세요	geokjeong hajimaseyo
+It’s OK	괜찮아요	gwaenchanayo
+You can do it!	잘할 수 있어요!	jalhal su isseoyo!
+Twinkling or glittering	반짝반짝	banjjakbanjjak
+Heart throbbing	두근두근	dugeundugeun
+Streaming or dripping water	주룩주룩	jurukjuruk
+Thump noises	쿵쿵	kungkung
+Blazing hot sun	쨍쨍	jjaengjjaeng
+Gentle soft breeze	솔솔	solsol
+Soft and chewy food	말랑말랑	mallangmallang
+Moving up and down	들썩들썩	deulsseokdeulsseok
+Cringe	오글오글	ogeurogeul
+Sneaking in	살금살금	salgeumsalgeum
+shushing	쉿	swit
+knocking	똑똑	ttokttok
+doorbell ringing	딩동	dingdong
+car honking	빵빵	ppangppang
+kissing	쪽	jjok
+heart beating	두근두근	dugeundugeun
+sneezing	에취	echwi
+crying	엉엉	eongeong
+laughing	하하하	hahaha
+snoring	드르렁드르렁	deureureongdeureureong
+pig oinking	꿀꿀꿀	kkulkkulkkul
+dog barking	멍멍	meongmeong
+cat meowing	야옹	yaong
+pigeon sound	구구	gugu
+cow or sheep sound	음메	eumme
+duck quacking	꽥꽥	kkwaekkkwaek
+mouse squeaking	찍찍	jjikjjik
